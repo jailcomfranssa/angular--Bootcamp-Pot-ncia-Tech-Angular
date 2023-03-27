@@ -1,52 +1,50 @@
 # Angular - Bootcamp-Potência Tech Angular Developer - Powered by iFood
 
-<h4 align="center"> 
+<h4 align="center">
 
-	🚧  Bootcamp 🚀 Em construção...  🚧
+ 🚧  Bootcamp 🚀 Em construção...  🚧
   
 </h4>
 
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jailcomfranssa/angular--Bootcamp-Pot-ncia-Tech-Angular/main/img/logo02.png" height="300"> 
+<img src="https://raw.githubusercontent.com/jailcomfranssa/angular--Bootcamp-Pot-ncia-Tech-Angular/main/img/logo02.png" height="300">
 
 </div>
-
 
 ## Descrição
 
 - ☑️ Primeiras Páginas Interativas com JavaScript
-    - ☑️ 1 - Primeiros Passos Com JavaScript - [<a href="https://www.dio.me/certificate/2425BC0E" target="_blank"> Certificado </a>]
-    - 🔲 2 - Conhecendo Funções JavaScript
-    - 🔲 3 - Criando Objetos e Classes em JavaScript
-    - 🔲 4 - Arrays e Estruturas de Repetição em JavaScript
-    - 🔲 5 - Importação e Exportação com JavaScript
-    - 🔲 6 - Introdução ao Desenvolvimento Web com JavaScript
-    - 🔲 7 - Criando um Projeto com HTML/CSS para Listagem de Pokémon
-    - 🔲 8 - Dominando o Protocolo HTTP e Integrando com a PokeAPI
-    - 🔲 9 - Construindo uma Pokédex com JavaScript
-    - 🔲 10 - Criando Seu Currículo Online Com HTML e GitHub Pages
+  - ☑️ 1 - Primeiros Passos Com JavaScript - [<a href="https://www.dio.me/certificate/2425BC0E" target="_blank"> Certificado </a>]
+  - 🔲 2 - Conhecendo Funções JavaScript
+  - 🔲 3 - Criando Objetos e Classes em JavaScript
+  - 🔲 4 - Arrays e Estruturas de Repetição em JavaScript
+  - 🔲 5 - Importação e Exportação com JavaScript
+  - 🔲 6 - Introdução ao Desenvolvimento Web com JavaScript
+  - 🔲 7 - Criando um Projeto com HTML/CSS para Listagem de Pokémon
+  - 🔲 8 - Dominando o Protocolo HTTP e Integrando com a PokeAPI
+  - 🔲 9 - Construindo uma Pokédex com JavaScript
+  - 🔲 10 - Criando Seu Currículo Online Com HTML e GitHub Pages
 - 🔲 Exercite sua Lógica com Desafios de Código em JavaScript
-    - 🔲 Child - 1
-    - 🔲 Child - 2
-    - 🔲 Child - 3
-    - 🔲 Child - 4
+  - 🔲 Child - 1
+  - 🔲 Child - 2
+  - 🔲 Child - 3
+  - 🔲 Child - 4
 - 🔲 Ganhando Produtividade com a Plataforma Angular
-    - 🔲 Child - 1
-    - 🔲 Child - 2
-    - 🔲 Child - 3
-    - 🔲 Child - 4
+  - 🔲 Child - 1
+  - 🔲 Child - 2
+  - 🔲 Child - 3
+  - 🔲 Child - 4
 - 🔲 Explorando JSON na Prática com Desafios de Código
-    - 🔲 Child - 1
-    - 🔲 Child - 2
-    - 🔲 Child - 3
-    - 🔲 Child - 4
+  - 🔲 Child - 1
+  - 🔲 Child - 2
+  - 🔲 Child - 3
+  - 🔲 Child - 4
 - 🔲 Trabalhando com Rotas e Serviços no Angular
-    - 🔲 Child - 1
-    - 🔲 Child - 2
-    - 🔲 Child - 3
-    - 🔲 Child - 4
+  - 🔲 Child - 1
+  - 🔲 Child - 2
+  - 🔲 Child - 3
+  - 🔲 Child - 4
 
 <br>
 
@@ -60,7 +58,7 @@ O Potência Tech powered by iFood voltou com tudo e agora traz um Bootcamp focad
 
 <div align="center">
 
-![myImage](https://raw.githubusercontent.com/jailcomfranssa/angular--Bootcamp-Pot-ncia-Tech-Angular/main/img/logo01.png) 
+![myImage](https://raw.githubusercontent.com/jailcomfranssa/angular--Bootcamp-Pot-ncia-Tech-Angular/main/img/logo01.png)
 
 </div>
 
@@ -78,6 +76,3 @@ O Potência Tech powered by iFood voltou com tudo e agora traz um Bootcamp focad
   <img align="center" alt="Jailson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jailson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jailson-Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
-
-
-
