@@ -19,7 +19,7 @@
   - ☑️ 2 - Conhecendo Funções JavaScript - [<a href="https://www.dio.me/certificate/1FF0F5B7"> Certificado </a>]
   - ☑️ 3 - Criando Objetos e Classes em JavaScript - [<a href="https://www.dio.me/certificate/BCF26309"> Certificado </a>]
   - ☑️ 4 - Arrays e Estruturas de Repetição em JavaScript - [<a href="https://www.dio.me/certificate/99E0E335"> Certificado </a>]
-  - 🔲 5 - Importação e Exportação com JavaScript
+  - ☑️ 5 - Importação e Exportação com JavaScript - [<a href="https://www.dio.me/certificate/21FFF51C"> Certificado </a>]
   - 🔲 6 - Introdução ao Desenvolvimento Web com JavaScript
   - 🔲 7 - Criando um Projeto com HTML/CSS para Listagem de Pokémon
   - 🔲 8 - Dominando o Protocolo HTTP e Integrando com a PokeAPI
