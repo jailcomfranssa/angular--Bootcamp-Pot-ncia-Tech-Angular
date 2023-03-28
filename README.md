@@ -17,7 +17,7 @@
 - ☑️ Primeiras Páginas Interativas com JavaScript
   - ☑️ 1 - Primeiros Passos Com JavaScript - [<a href="https://www.dio.me/certificate/2425BC0E" target="_blank"> Certificado </a>]
   - ☑️ 2 - Conhecendo Funções JavaScript - [<a href="https://www.dio.me/certificate/1FF0F5B7"> Certificado </a>]
-  - 🔲 3 - Criando Objetos e Classes em JavaScript
+  - ☑️ 3 - Criando Objetos e Classes em JavaScript - [<a href="https://www.dio.me/certificate/BCF26309"> Certificado </a>]
   - 🔲 4 - Arrays e Estruturas de Repetição em JavaScript
   - 🔲 5 - Importação e Exportação com JavaScript
   - 🔲 6 - Introdução ao Desenvolvimento Web com JavaScript
