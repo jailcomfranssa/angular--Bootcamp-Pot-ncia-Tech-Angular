@@ -22,7 +22,7 @@
   - ☑️ 5 - Importação e Exportação com JavaScript - [<a href="https://www.dio.me/certificate/21FFF51C"> Certificado </a>]
   - ☑️ 6 - Introdução ao Desenvolvimento Web com JavaScript - [<a href="https://www.dio.me/certificate/6A4DBDCB"> Certificado </a>]
   - ☑️ 7 - Criando um Projeto com HTML/CSS para Listagem de Pokémon - [<a href="https://www.dio.me/certificate/335AE7A5"> Certificado </a>]
-  - 🔲 8 - Dominando o Protocolo HTTP e Integrando com a PokeAPI
+  - ☑️ 8 - Dominando o Protocolo HTTP e Integrando com a PokeAPI  - [<a href="https://www.dio.me/certificate/58898811"> Certificado </a>]
   - 🔲 9 - Construindo uma Pokédex com JavaScript
   - 🔲 10 - Criando Seu Currículo Online Com HTML e GitHub Pages
 - 🔲 Exercite sua Lógica com Desafios de Código em JavaScript
